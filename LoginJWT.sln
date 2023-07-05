@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F02F361A-22D2-4A6E-9E52-8601FA1445BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApplication", "LoginApplication\LoginApplication.csproj", "{85DC41BD-2C0E-4F92-A0B2-242EF2C72A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02F361A-22D2-4A6E-9E52-8601FA1445BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02F361A-22D2-4A6E-9E52-8601FA1445BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02F361A-22D2-4A6E-9E52-8601FA1445BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02F361A-22D2-4A6E-9E52-8601FA1445BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85DC41BD-2C0E-4F92-A0B2-242EF2C72A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DC41BD-2C0E-4F92-A0B2-242EF2C72A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DC41BD-2C0E-4F92-A0B2-242EF2C72A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DC41BD-2C0E-4F92-A0B2-242EF2C72A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/bin/Debug/net6.0/DataAccess.runtimeconfig.json
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/refint/DataAccess.dll
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/DataAccess.genruntimeconfig.cache
+/Users/trungtran/RiderProjects/LoginJWT/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll
